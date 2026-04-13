@@ -1,6 +1,6 @@
 # Frontend Mentor - Social Links Profile Solution
 
-This is my solution to the [Social links profile challenge on Frontend Mentor]((https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)). This project helped me practice CSS Flexbox, responsive layouts, and simple JavaScript interactions.
+This is my solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). This project helped me practice CSS Flexbox, responsive layouts, and simple JavaScript interactions.
 
 ### The challenge
 
